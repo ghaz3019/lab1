@@ -6,3 +6,6 @@ Cereal
 Bread
 Eggs
 Milk
+Canned Fruit
+Peas
+Beans
