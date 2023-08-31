@@ -5,4 +5,8 @@ More Dog food and Rabbit food
 Cereal
 Bread
 Eggs
+Milk
+Canned Fruit
+Peas
+Beans
 Water
